@@ -1,11 +1,15 @@
 
 body {
-    background-color: #000000;
+    background-image: #000000;
+    filter: blur(5px);
 }
 
 .pageborder {
     background: solid, fixed;
-    background-color: #0a002d;
+    background-color: #2a2a2a;
+    opacity: 0.4;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 p {
