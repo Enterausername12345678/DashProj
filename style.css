@@ -9,6 +9,7 @@ body {
     opacity: 0.4;
     margin-left: 10px;
     margin-right: 10px;
+    display: inline-grid;
 }
 
 p {
